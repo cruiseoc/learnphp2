@@ -1,1 +1,1 @@
-# learnphp2 Will Mar ain't got shit on me
+# learnphp2 Will Mar sucks
