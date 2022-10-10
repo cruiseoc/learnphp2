@@ -1,1 +1,1 @@
-# learnphp2 Hello world!
+# learnphp2 Hello world
