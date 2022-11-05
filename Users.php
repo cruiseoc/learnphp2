@@ -15,8 +15,5 @@
   <input type="radio" name="role" value="Teacher"> Teacher<br>
   <input type="radio" name="role" value="Admin"> Admin<br>
   <input type="submit" value="Add User">
-  <?php
-    echo("submitted")
-    ?>
 
 </form>
