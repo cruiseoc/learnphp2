@@ -1,8 +1,5 @@
-
-
 <?php
 header('Location: users.php');
-
 
 include_once("connection.php");
 
